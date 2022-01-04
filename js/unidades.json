@@ -1,0 +1,111 @@
+[
+    {
+        "marca": "Mitsubishi",
+        "modelo": "Lancer Final Edition",
+        "precio": 31200,
+        "stock": 11,
+        "img": "mitsubishiLancer.jpg",
+        "clase": "auto",
+        "seal": 580
+    },
+    {
+        "marca": "Jeep 'Rubicon'",
+        "modelo": "Wrangler",
+        "precio": 32500,
+        "stock": 25,
+        "img": "jeepWrangler.jpg",
+        "clase": "suv",
+        "seal": 1000
+    },
+    {   
+        "marca": "Jeep",
+        "modelo": "Gladiator",
+        "precio": 38000,
+        "stock": 20,
+        "img": "jeepGladiator.jpg",
+        "clase": "suv",
+        "seal": 1100
+
+    },
+    {
+        "marca": "Rolls Royce",
+        "modelo": "Ghost",
+        "precio": 375800,
+        "stock": 5,
+        "img": "rollsGhost.jpg",
+        "clase": "auto",
+        "seal": 12300
+    },
+    {
+        "marca": "Bentley",
+        "modelo": "Continental GT Speed",
+        "precio": 334500,
+        "stock": 8,
+        "img": "continentalSpeed.jpg",
+        "clase": "auto",
+        "seal": 9870
+    },
+    {
+        "marca": "Mazda",
+        "modelo": "MX5",
+        "precio": 85000,
+        "stock": 6,
+        "img": "mazdaRoadster.jpg",
+        "clase": "auto",
+        "seal": 3500
+    },
+    {
+        "marca": "Ducati",
+        "modelo": "Panigale V4",
+        "precio": 29500,
+        "stock": 12,
+        "img": "ducativ4.jpg",
+        "clase": "moto",
+        "seal": 890
+    },
+    {
+        "marca": "Kawasaki ABS",
+        "modelo": "Ninja 650 ABS",
+        "precio": 32800,
+        "stock": 11,
+        "img": "kawasakininja.jpg",
+        "clase": "moto",
+        "seal": 990
+    },
+    {
+        "marca": "MV Augusta",
+        "modelo": "Brutale Serie Oro 1000 RR",
+        "precio": 39250,
+        "stock": 2,
+        "img": "mvAugusta.jpg",
+        "clase": "moto",
+        "seal": 1120
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Fireblade 1000RR",
+        "precio": 38100,
+        "stock": 4,
+        "img": "hondaFireblade.jpg",
+        "clase": "moto",
+        "seal": 1080
+    },
+    {
+        "marca": "Kawasaki SE",
+        "modelo": "Versys 1000 SE",
+        "precio": 40000,
+        "stock": 8,
+        "img": "kawasakiVersys.jpg",
+        "clase": "moto",
+        "seal": 1200
+    },
+    {
+        "marca": "Triumph",
+        "modelo": "Tiger 1200 2022",
+        "precio": 39800,
+        "stock": 7,
+        "img": "triumphTiger.jpg",
+        "clase": "moto",
+        "seal": 1190
+    }
+]
